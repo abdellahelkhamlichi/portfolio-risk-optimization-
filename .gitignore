@@ -158,6 +158,11 @@ env.bak/
 venv.bak/
 
 # Spyder project settings
+.DS_Store
+data/raw/*
+!data/raw/.gitkeep
+reports/figures/*
+!reports/figures/.gitkeep
 .spyderproject
 .spyproject
 
