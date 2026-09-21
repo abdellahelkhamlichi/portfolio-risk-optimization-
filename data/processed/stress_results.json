@@ -3,12 +3,12 @@
     "start": "2008-09-01",
     "end": "2009-03-31",
     "observations": 146,
-    "portfolio_return": -0.07058713160800967
+    "portfolio_return": -0.07058708129261593
   },
   "Krach COVID 2020": {
     "start": "2020-02-19",
     "end": "2020-03-23",
     "observations": 24,
-    "portfolio_return": -0.09468901599129265
+    "portfolio_return": -0.09468906393717624
   }
 }
